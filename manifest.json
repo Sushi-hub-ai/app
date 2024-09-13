@@ -1,8 +1,20 @@
 {
-  "name": "My Web App",
-  "short_name": "WebApp",
+  "name": "Google Sheets Web App",
+  "short_name": "SheetsApp",
   "start_url": "https://script.google.com/macros/s/AKfycbxIfaVbcE3P9zktsSwLvGfFjJFN-pGI2RtaKBOAVNkOLuFwNsJIhUMDixsNtrEsHwQDyQ/exec",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ff6b6b"
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://<username>.github.io/<repository>/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://<username>.github.io/<repository>/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
