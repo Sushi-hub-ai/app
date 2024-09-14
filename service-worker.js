@@ -1,9 +1,9 @@
 const CACHE_NAME = 'v1';
 const URLS_TO_CACHE = [
-  'https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec', // Web app URL
-  'https://drive.google.com/uc?export=download&id=YOUR_MANIFEST_JSON_FILE_ID',
-  'https://drive.google.com/uc?export=download&id=YOUR_ICON_192x192_FILE_ID',
-  'https://drive.google.com/uc?export=download&id=YOUR_ICON_512x512_FILE_ID'
+  'https://script.google.com/macros/s/AKfycbxIfaVbcE3P9zktsSwLvGfFjJFN-pGI2RtaKBOAVNkOLuFwNsJIhUMDixsNtrEsHwQDyQ/exec', // Web app URL
+  'https://drive.google.com/uc?export=download&id=1LhdxXMbe_e3oLEYTcQGY_iilPZZp3GWd',
+  'https://drive.google.com/uc?export=download&id=1rNkOkCvtkkMI2PiCw22cOfPSUl2jiHn5',
+  'https://drive.google.com/uc?export=download&id=1rNkOkCvtkkMI2PiCw22cOfPSUl2jiHn5'
 ];
 
 self.addEventListener('install', event => {
