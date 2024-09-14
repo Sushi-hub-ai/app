@@ -1,10 +1,10 @@
 const CACHE_NAME = 'v1';
 const URLS_TO_CACHE = [
   '/',
-  '/index.html',
-  '/manifest.json',
-  '/icon-192x192.png',
-  '/icon-512x512.png'
+  'https://script.google.com/macros/s/AKfycbxIfaVbcE3P9zktsSwLvGfFjJFN-pGI2RtaKBOAVNkOLuFwNsJIhUMDixsNtrEsHwQDyQ/exec',
+  'https://raw.githubusercontent.com/Sushi-hub-ai/app/main/manifest.json',
+  'https://raw.githubusercontent.com/Sushi-hub-ai/app/main/Icon.jpg',
+  'https://raw.githubusercontent.com/Sushi-hub-ai/app/main/Icon.jpg'
 ];
 
 // Install event - caching necessary files
