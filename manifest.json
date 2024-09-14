@@ -1,7 +1,7 @@
 {
   "name": "Google Sheets Web App",
   "short_name": "SheetsApp",
-  "start_url": "https://script.google.com/macros/s/AKfycbxIfaVbcE3P9zktsSwLvGfFjJFN-pGI2RtaKBOAVNkOLuFwNsJIhUMDixsNtrEsHwQDyQ/exec",
+  "start_url": "https://script.google.com/macros/s/AKfycbxhwvA6n-W8ynddqSawoZSL8wnB3QXGJFmhfOSoncPJEFoXro2r1O8SkrGRwcpB9UobbA/exec",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
